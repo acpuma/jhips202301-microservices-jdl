@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "blog", "store"],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "jmicro",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "Y2E5NDNjNTNjZmQyOTZiNjFlMWQ1YTE0ZWM3YjE5MDNlYzRkZjc5ZjYwMjJjYzFlYjYyMWViY2IwOTRkYmRhNjBlNDhlMDVmYmQwMGE3MzJjNWUzNTA0ZDgwYjQ5MTk4N2Q1ZA==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
